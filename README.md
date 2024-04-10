@@ -1,1 +1,1 @@
-Este es un repositorio quer voy a usar durante mi cursada en Sintaxis y Semántca.
+Este es un repositorio quer voy a usar durante mi cursada en Sintaxis y Semántca de los Lenguajes
