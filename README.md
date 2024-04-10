@@ -1,1 +1,1 @@
-# SSL_gonzalezmiel_francisco
+Este es un repositorio quer voy a usar durante mi cursada en Sintaxis y Semántca.
